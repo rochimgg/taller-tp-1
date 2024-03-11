@@ -1,0 +1,5 @@
+# Ignorar archivos generados por Cargo
+.target/
+
+# Ignorar archivos específicos de Visual Studio Code
+.vscode/
