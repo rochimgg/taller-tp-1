@@ -1,10 +1,8 @@
 mod tests;
-mod anchors;
 mod reader;
 mod alnum_checker;
 
 fn main() {
-    anchors::evaluate_anchor("");
     let reader = reader::Reader::new(String::from("/Users/mac/repos/taller-tp-1/src/text.txt"));
     let result = reader.read_file();
     match result {
