@@ -1,0 +1,1 @@
+/Users/mac/repos/taller-tp-1/target/debug/tp1: /Users/mac/repos/taller-tp-1/src/alnum_checker.rs /Users/mac/repos/taller-tp-1/src/anchors.rs /Users/mac/repos/taller-tp-1/src/main.rs /Users/mac/repos/taller-tp-1/src/reader.rs /Users/mac/repos/taller-tp-1/src/tests.rs
